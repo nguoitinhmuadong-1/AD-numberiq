@@ -1,6 +1,6 @@
-streamlit
-streamlit-drawable-canvas
-tensorflow
-opencv-python-headless
-numpy
-pillow
+streamlit==1.40.2
+streamlit-drawable-canvas==0.9.3
+tensorflow-cpu==2.15.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+pillow==10.4.0
